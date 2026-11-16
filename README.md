@@ -8,6 +8,7 @@ O objetivo é mostrar à gestão escolar, com evidência, o trabalho feito. O te
 
 | Página | Conteúdo |
 |---|---|
+| `indicadores.html` | Evidências por indicador e por dever legal, com a fonte de cada afirmação |
 | `index.html` | Capa, destaque do PDI 2026 (registro do Diário de Classe e acompanhamento no Professor Presente, em linha do tempo) e destaques |
 | `protagonismo-juvenil.html` | Princípio: Protagonismo Juvenil |
 | `pedagogia-da-presenca.html` | Princípio: Pedagogia da Presença |
